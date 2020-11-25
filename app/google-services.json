@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "942703352624",
+    "firebase_url": "https://calllogtrack.firebaseio.com",
+    "project_id": "calllogtrack",
+    "storage_bucket": "calllogtrack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942703352624:android:1d25e0925f0b3ae79506f5",
+        "android_client_info": {
+          "package_name": "com.example.calllogtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "942703352624-kt0rtdnek4t3c381thgiq16n3gd7droa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbcaBZi5M6wl73Nppn7VIlU5Vpudgj7kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "942703352624-kt0rtdnek4t3c381thgiq16n3gd7droa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
