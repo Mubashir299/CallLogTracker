@@ -15,6 +15,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import java.util.ArrayList;
 
 public class CallLogAdapter extends RecyclerView.Adapter<CallLogAdapter.MyViewHolder> {
+    //declare the variable
     private int px;
     Context context;
     ArrayList<CallLogModel> callLogModelArrayList;
@@ -26,6 +27,8 @@ public class CallLogAdapter extends RecyclerView.Adapter<CallLogAdapter.MyViewHo
 
     @NonNull
     @Override
+
+    //ViewHolder is use to access each list item view 
     public MyViewHolder onCreateViewHolder(@NonNull ViewGroup parent, int viewType) {
         Resources r = parent.getResources();
         px = Math.round(TypedValue.applyDimension(
